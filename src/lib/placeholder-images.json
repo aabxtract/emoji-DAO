@@ -1,3 +1,10 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "logo",
+      "description": "EmojiDAO logo",
+      "imageUrl": "https://images.unsplash.com/photo-1728318611239-664f04b21635?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxlbW9qaSUyMHNtaWxlfGVufDB8fHx8MTc2MzE1MDU1OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "emoji smile"
+    }
+  ]
 }
